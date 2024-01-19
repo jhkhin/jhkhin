@@ -1,7 +1,9 @@
-<p align='center'> 전자과 출신의 신입 삐약이 개발자 :star2: </p>
-<p align='center'> 중앙정보기술인재개발원 풀스택 수료 (2024.01) </p>
-<p align='center'> 하드웨어 경력 5년 : 반도체 PCB Rework, Assembler 설계, Altium PCB 설계, Ardunio 제어 </p>
-
+<div align='center'>
+  
+#### 전자과 출신의 신입 삐약이 개발자 :star2: 
+#### 중앙정보기술인재개발원 풀스택 수료 (2024.01) 
+#### 하드웨어 경력 5년 : 반도체 PCB Rework, Assembler 설계, Altium PCB 설계, Ardunio 제어 
+---
 ###  :computer: **SOFTWARE - PULLSTACK**
 
 #### Language
@@ -17,10 +19,10 @@
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">  <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 
 
-
+---
 ### :wrench: **HARDWARE**
 <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">  <img src="https://img.shields.io/badge/altiumdesigner-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white">
-
+</div>
 <!--
 **jhkhin/jhkhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
