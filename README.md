@@ -1,10 +1,25 @@
-##### 전자과 출신의 신입 삐약이 개발자
-##### 중앙정보기술인재개발원 풀슽택 수료 (2024.01)
-##### 하드웨어 경력 5년 : 반도체 PCB Rework, Assembler 설계, Altium PCB 설계, Ardunio 제어 
+<p align='center'> 전자과 출신의 신입 삐약이 개발자 :star2: </p>
+<p align='center'> 중앙정보기술인재개발원 풀스택 수료 (2024.01) </p>
+<p align='center'> 하드웨어 경력 5년 : 반도체 PCB Rework, Assembler 설계, Altium PCB 설계, Ardunio 제어 </p>
+
+###  :computer: **SOFTWARE - PULLSTACK**
+
+#### Language
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/JAVA-F7DF1E?style=for-the-badge&logoColor=white">
+#### Database
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+#### FrameWork
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+#### server
+<img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+
+#### Development Tool
+<img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">  <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 
 
-<img src="https://img.shields.io/badge/리액트-61DAFB?style=flat&logo=React&logoColor=white"/>
 
+### :wrench: **HARDWARE**
+<img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">  <img src="https://img.shields.io/badge/altiumdesigner-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white">
 
 <!--
 **jhkhin/jhkhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
