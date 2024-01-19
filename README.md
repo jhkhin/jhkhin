@@ -1,4 +1,5 @@
-### Hi there 👋
+### 전자과 출신의 개발자
+### 하드웨어에 소프트웨어라는 날개를 달자!
 
 <!--
 **jhkhin/jhkhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
