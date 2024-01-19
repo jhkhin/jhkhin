@@ -1,5 +1,10 @@
-### 전자과 출신의 개발자
-### 하드웨어에 소프트웨어라는 날개를 달자!
+##### 전자과 출신의 신입 삐약이 개발자
+##### 중앙정보기술인재개발원 풀슽택 수료 (2024.01)
+##### 하드웨어 경력 5년 : 반도체 PCB Rework, Assembler 설계, Altium PCB 설계, Ardunio 제어 
+
+
+<img src="https://img.shields.io/badge/리액트-61DAFB?style=flat&logo=React&logoColor=white"/>
+
 
 <!--
 **jhkhin/jhkhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
