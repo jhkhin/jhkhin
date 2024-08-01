@@ -1,7 +1,8 @@
 <div align='center'>
   
 #### 전자과 출신의 신입 삐약이 개발자 :star2: 
-#### 중앙정보기술인재개발원 풀스택 수료 (2024.01) 
+#### 중앙정보기술인재개발원 풀스택 수료 (2024.01)
+#### 한국표준협회 AI × DATA 전문가 양성 온라인교육(2024.05~) 
 #### 하드웨어 경력 5년 : 반도체 PCB Rework, Assembler 설계, Altium PCB 설계, Ardunio 제어 
 ---
 ###  :computer: **SOFTWARE - PULLSTACK**
